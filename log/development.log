@@ -26,3 +26,8 @@ Completed in 53ms (View: 10, DB: 0) | 200 OK [http://localhost/rails/info/proper
  FROM sqlite_master
  WHERE type = 'table' AND NOT name = 'sqlite_sequence'
 [0m
+
+
+Processing PagesController#home (for 127.0.0.1 at 2010-01-30 23:01:41) [GET]
+Rendering pages/home
+Completed in 41ms (View: 39, DB: 0) | 200 OK [http://localhost/pages/home]
