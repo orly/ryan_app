@@ -1,0 +1,3 @@
+# First application
+
+This is my first application not following a tutorial verbatim, but using it as a guide to get some experience. Kind of like riding a bike with training wheels. I don't really know what this app will do. Hopefully I can use it to create a mishmash of different features to get my web dev feet wet. We'll see where the creativity takes me...
